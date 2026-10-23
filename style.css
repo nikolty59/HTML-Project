@@ -1,0 +1,208 @@
+
+body {
+    background-color: rgb(243, 230, 227);
+    font-family: Arial;
+    margin: 30px;
+}
+
+h1 {
+    	color: rgb(61, 61, 61);
+    	text-align: center;
+	font-size:40px;
+	background-color:rgb(242,242,242);
+	padding: 20px;
+	border-radius:15px;
+	max-width:900px;
+	margin: 20px auto 35px auto;
+	box-shadow: 0 4px 12px (0,0,0,0.08)
+
+	}
+
+h2 {
+    color: rgb(74, 69, 69);
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+    margin: 10px;
+}
+
+a {
+    color: blue;
+    font-size: 18px;
+}
+
+a:hover {
+    color: red;
+}
+
+.card ul{
+	padding-left: 35px;
+}
+
+.card li {
+	font-size:18px;
+	margin-bottom:20px;
+	line-height: 1.6;
+
+}
+
+
+.globe-photo {
+    	width: 90px;
+   	height: 90px;
+    	object-fit: cover;
+    	vertical-align: middle;
+    	margin-left: 15px;
+    	border-radius: 10px;
+}
+.bailey-photo {
+    	width: 90px;
+   	height: 90px;
+    	object-fit: cover;
+    	vertical-align: middle;
+    	margin-left: 15px;
+    	border-radius: 10px;
+}
+
+.running-photo {
+    	width: 90px;
+   	height: 90px;
+    	object-fit: cover;
+    	vertical-align: middle;
+    	margin-left: 15px;
+    	border-radius: 10px;
+}
+
+.hamburger-photo {
+    	width: 90px;
+   	height: 90px;
+    	object-fit: cover;
+    	vertical-align: middle;
+    	margin-left: 15px;
+    	border-radius: 10px;
+}
+.bmcc-location-photo{
+    	width: 200px;
+    	height: 200px;
+    	object-fit: cover;
+    	vertical-align: middle;
+    	margin-left: 10px;
+    	border-radius: 5px;
+}
+.button {
+    	display: inline-block;
+    	background-color: rgb(85, 80, 80);
+    	color: white;
+    	padding: 12px 20px;
+    	border-radius: 8px;
+    	text-decoration: none;
+    	margin: 5px;
+}
+
+.homepage {
+display: inline-block;
+    	background-color: rgb(85, 80, 80);
+    	color: white;
+    	padding: 12px 20px;
+    	border-radius: 8px;
+    	text-decoration: none;
+    	margin: 5px;
+}
+
+.card {
+    	background-color: rgb(242, 242, 242);
+    	padding: 25px;
+    	border: 1px solid rgb(221, 221, 221);
+    	border-radius: 15px;
+    	margin: 25px auto;
+    	max-width: 900px;
+    	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.movie-photo {
+    	width: 90px;
+   	height: 90px;
+    	object-fit: cover;
+    	vertical-align: middle;
+    	margin-left: 15px;
+    	border-radius: 10px;
+}
+
+
+.card li {
+    	background-color: rgb(255, 249, 248);
+    	padding: 15px 20px;
+   	margin-bottom: 15px;
+    	border-radius: 12px;
+    	border: 1px solid rgb(234, 217, 214);
+    	line-height: 1.6;
+}
+
+.card li:hover {
+    	background-color: rgb(250, 232, 230);
+}
+
+.card ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.bailey-photo, .movie-photo {
+    	width: 85px;
+    	height: 85px;
+    	object-fit: cover;
+    	vertical-align: middle;
+    	margin-left: 15px;
+    	border-radius: 15px;
+}
+
+.card h2 {
+    	color: rgb(107, 85, 85);
+}
+
+.about-container{
+	display:flex;
+	gap:20px;
+}
+
+.about-box{
+	background-color:white;
+	border-radius: 12px;
+	padding:20px;
+	text-aling:center;
+	flex: 1;
+}
+
+.about-box h3{
+	color: rgb(107,85,85);
+}
+
+.about-box:hover{
+	background-color:rgb(250, 232, 230);
+}
+
+table {
+	width:100%;
+	border-collapse:collapse;
+	margin-top: 20px;
+}
+
+th,td{
+	padding: 15px;
+	text-aling: left;
+	border: 1px solid rgb(221, 221,221);
+}
+
+th{
+	background-color: rgb(250,232,230);
+}
+
+td{
+	background-color: white;
+}
+	
